@@ -20,5 +20,3 @@ CREATE TABLE characters (id INTEGER PRIMARY KEY,
                          species TEXT,
                          author_id INTEGER,
                          series_id INTEGER);
-
-                      
