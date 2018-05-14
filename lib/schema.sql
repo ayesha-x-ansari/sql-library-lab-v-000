@@ -14,7 +14,7 @@ CREATE TABLE books (id INTEGER PRIMARY KEY,
                     year  INTEGER,
                     series_id INTEGER);
 
-CREATE TABLE character_books (id INTEGER PRIMARY KEY,
+CREATE TABLE character (id INTEGER PRIMARY KEY,
                          name TEXT,
                          motto TEXT,
                          species TEXT,
