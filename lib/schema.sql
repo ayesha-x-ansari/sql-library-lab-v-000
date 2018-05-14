@@ -17,5 +17,5 @@ CREATE TABLE author (id INTEGER PRIMARY KEY,
 
 CREATE TABLE books (id INTEGER PRIMARY KEY,
                     title TEXT,
-                     
+
                       
