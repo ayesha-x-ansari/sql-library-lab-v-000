@@ -22,4 +22,4 @@ CREATE TABLE characters (id INTEGER PRIMARY KEY,
                          series_id INTEGER);
 
 CREATE TABLE character_books (id INTEGER PRIMARY KEY,
-                     title TEXT);
+                     book_id INTEGER);
